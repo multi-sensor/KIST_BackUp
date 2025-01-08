@@ -1,2 +1,2 @@
 # KIST_BackUp
-BackUp Repository for 'kist_project'
+: BackUp Repository for 'kist_project'
